@@ -5,7 +5,7 @@
  *      Author: ayo_o
  */
 
- //I pledge my honor that I have abided by the Stevens honor system.
+
 
  .text
  .global main
